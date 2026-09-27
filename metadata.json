@@ -1,0 +1,6 @@
+{
+  "name": "DURANDESHBARBER | Онлайн-запись и барбершоп",
+  "description": "Сервис онлайн-записи к мастерам-парикмахерам с выбором стрижек, локаций, времени и удобной панелью администратора для управления ценами, мастерами и портфолио работ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
